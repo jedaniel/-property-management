@@ -6,11 +6,11 @@ First Time Git & Github Setup
 4. git remote add origin https://github.com/jedaniel/property-management.git
 
 #5. git remote set-url origin https://USERNAME:<MYTOKEN>@github.com/USERNAME/REPO.git
-5. git remote set-url origin https://jedaniel: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@github.com/jedaniel/property-management.git
+5. git remote set-url origin https://jedaniel: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@github.com/jedaniel/property-management.git
 
 6. git push --set-upstream origin master
 
-Next Time Onwards2
+Next Time Onwards
 =================
 1. git pull
 2. git add .
